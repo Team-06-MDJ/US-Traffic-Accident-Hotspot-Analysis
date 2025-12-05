@@ -238,6 +238,6 @@ streamlit run dashboard.py
 ---
 
 # 🙌 **Team**
-- Dharmika Gali  
-- Mohit Raiyani  
+- Mohit Raiyani 
+- Dharmika Gali   
 - Jagdish Kumar  
