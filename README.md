@@ -31,7 +31,6 @@ Local Machine (VS Code)
 → AWS S3 (Data Lake: raw + processed data)  
 → AWS Glue (Jobs, Crawlers, Data Catalog)  
 → AWS Athena (SQL Analytics)  
-→ Power BI (Business Dashboard)  
 → Streamlit Web App (Interactive Visualization)
 
 ---
@@ -58,7 +57,6 @@ Local Machine (VS Code)
 - IAM – Permissions  
 
 ### **Visualization Tools**
-- Power BI Desktop  
 - Streamlit Web App  
 
 ---
@@ -149,13 +147,6 @@ LIMIT 50;
 
 # 📊 **4️⃣ Visualizations**
 
-## **Power BI Dashboard**
-Includes:
-- Hotspot map  
-- Accidents by hour  
-- Severity distribution  
-- Weather impact  
-- Filters for year, state, severity  
 
 ## **Streamlit Web App**
 Features:
